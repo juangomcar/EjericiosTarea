@@ -1,0 +1,25 @@
+body, html {
+  background-color: #1c2333;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  /* Todos los elementos */
+  box-sizing: border-box;
+}
+
+#container {
+  /* ID */
+  padding: 16px;
+}
+
+.btn {
+  /* DIV */
+  border-radius: 8px;
+  padding: 8px;
+  background: transparent;
+  color: white;
+  border-color: white;
+}

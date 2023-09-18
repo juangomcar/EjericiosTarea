@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #Titulo {
+    color: black;
+    font-family: Georgia;
+  }
+  
+  #Clave {
+    color: red;
+    font-family: Georgia;
+  }
+  
+  #text3 {
+    color: blue;
+    font-family: Georgia;
+  }
